@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+
+<bookstore>
+
+  <book >
+    <author>Corets, Eva</author>
+    <title>The Sundered Grail</title>
+    <genre>Fantasy</genre>
+    <price>595</price>
+    <year>2005</year>
+    <publish_date>2001-09-10</publish_date>
+    <description>The two daughters of Maeve, half-sisters, 
+      battle one another for control of England. Sequel to 
+      Oberon's Legacy.</description>
+    <copyright-year>1990</copyright-year>
+    <book-edition>
+        2nd</book-edition>
+    <isbn>888-3-23-148410-0</isbn>
+    <publisher>Free Books 4 All</publisher>
+
+  </book>
+  <book >
+    <author>Randall, Cynthia</author>
+    <title>Lover Birds</title>
+    <genre>Romance</genre>
+    <price>495</price>
+    <publish_date>2000-09-02</publish_date>
+    <description>When Carla meets Paul at an ornithology 
+      conference, tempers fly as feathers get ruffled.</description>
+    <book-edition>
+        4th</book-edition>
+    <copyright-year>2010</copyright-year>
+    <isbn>678-3-16-148434-0</isbn>
+    <publisher>Edu Books</publisher>
+
+  </book>
+  <book >
+    <author>Thurman, Paula</author>
+    <title>Splish Splash</title>
+    <genre>Romance</genre>
+    <price>4.95</price>
+    <publish_date>2000-11-02</publish_date>
+    <description>A deep sea diver finds true love twenty 
+      thousand leagues beneath the sea.</description>
+    <book-edition>
+        1st</book-edition>
+    <copyright-year>2003</copyright-year>
+    <isbn> 2348-3-16-148410-0</isbn>
+    <publisher>Global Publications</publisher>
+
+  </book>
+  <book >
+    <author>Knorr, Stefan</author>
+    <title>Creepy Crawlies</title>
+    <genre>Horror</genre>
+    <price>495</price>
+    <publish_date>2000-12-06</publish_date>
+    <description>An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.</description>
+    <book-edition>
+        2nd</book-edition>
+    <copyright-year>2012</copyright-year>
+    <isbn>        228-3-16-148410-0</isbn>
+    <publisher>Peter Books</publisher>
+
+  </book>
+  <book >
+    <author>Kress, Peter</author>
+    <title>Paradox Lost</title>
+    <genre>Science Fiction</genre>
+    <price>695</price>
+    <publish_date>2000-11-02</publish_date>
+    <description>After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems 
+      of being quantum.</description>
+    <book-edition>
+        3rd</book-edition>
+    <isbn>978-3-16-148410-0
+    </isbn>
+    <copyright-year>2019</copyright-year>
+    <publisher>Goyal Brothers</publisher>
+  </book>
+</bookstore>
